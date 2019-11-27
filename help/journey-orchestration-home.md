@@ -9,7 +9,7 @@ topic: Premium
 
 ![](using/assets/bannerjourney.png) 
 
-## Get started
+## Get started 
 
 * **[What is Journey Orchestration?](using/about/intro.md)**<br/>
 Learn more on Journey Orchestration.
